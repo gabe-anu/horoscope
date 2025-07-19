@@ -1,6 +1,6 @@
 Submitted by: **Gabriel Anurum-Anyanwu**
 
-Live Demo: 
+Live Demo: Live Demo: [horoscope-lime.vercel.app](horoscope-lime.vercel.app)
 
 
 
