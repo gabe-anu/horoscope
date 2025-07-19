@@ -52,6 +52,6 @@ form.addEventListener('submit', function(event) {
       <p>  ${oracle[index]} </i> </p>
     `;
   } else {
-    output.innerHTML = `<p>Share thy birth month or begone you haggerd runt!</p>`;
+    output.innerHTML = `<b><p>Share thy birth month or begone you haggerd runt!</p></b>`;
   }
 });
